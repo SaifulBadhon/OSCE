@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+node_modules/
+dist/
+.env
+*.key
+llm/
+sessions/
+evaluator_results/
+examiner_results/
+patient_profile.json
+*.json.bak
+.vscode/
